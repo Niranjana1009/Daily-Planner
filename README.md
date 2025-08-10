@@ -1,4 +1,4 @@
-# Brainwave_Matrix_Intern
+# Daily Planner
 Daily Scheduler Web App
 
 An interactive and feature-rich daily planner built using **HTML, CSS and JavaScript**. This scheduler allows users to plan their day from **6:00 AM to 6:00 PM**, store tasks per selected date, and even receive **notifications** before upcoming tasks. It also includes PDF export functionality.
